@@ -1,5 +1,5 @@
 # Hangman
-This ia basic command prompt game written in python. It is called Hangman, and it is one of my first complete coding projects
+This is a basic command prompt game written in python. It is called Hangman, and it is one of my first complete coding projects
 This game is fairly simple, and you might have heard of it before.
 
 
